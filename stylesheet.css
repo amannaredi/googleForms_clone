@@ -1,0 +1,57 @@
+.box {
+  max-width: 100%;
+  margin: 50px;
+  padding:10px 5px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+}
+
+input[type="radio"] {
+margin:0px 10px 0 5px;
+}
+.firstButton{
+  margin-left:0px;
+  /* color:; */
+}
+.button {
+  width : 400px;
+  padding-left: 0px;
+  text-align: left;
+  margin-bottom: 15px;
+  margin-left: 18px;
+}
+.form-group{
+  margin-bottom: 15px;
+}
+.radioField{
+  margin-top:5px;
+  color: gray;
+}
+.input{
+  color: gray;
+  font-weight:700;
+  width :65%;
+}
+.icon{
+  margin-right:20px;
+}
+
+.sub-section{
+  margin-left:38px;
+}
+.sub-section-input{
+  margin-left: 20px;
+}
+.section{
+  margin-top: 15px;
+}
+.field{
+  width:500px;
+}
+.buttons{
+  width:auto;
+  margin-left: auto;
+  margin-right: 30px;
+  padding: 10px 40px;
+}
